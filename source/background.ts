@@ -86,3 +86,4 @@ browser.runtime.onInstalled.addListener(async ({reason}) => {
 	await cache.delete('hotfixes');
 	await cache.delete('style-hotfixes');
 });
+//comment
